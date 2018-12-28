@@ -14,7 +14,7 @@
     "main": "index.js",
     "dependencies": {
         "restify":"*",
-        "validator": "2.0.0"
+        "validator": "9.4.1"
     },
     "devDependencies": {},
     "optionalDependencies": {},
