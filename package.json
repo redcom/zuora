@@ -2,7 +2,7 @@
     "author": "Karl Düüna, Razvan Moraru",
     "name": "zuora-rest",
     "description": "Zuora API wrapper for Node",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "keywords": [
         "zuora",
         "rest"
@@ -13,8 +13,6 @@
     },
     "main": "index.js",
     "dependencies": {
-        "bunyan": "^1.8.12",
-        "ramda": "^0.26.1",
         "restify-clients": "^2.6.4",
         "validator": "9.4.1"
     },
