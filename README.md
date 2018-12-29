@@ -1,3 +1,6 @@
+Code stolen from bellow url. Credits to Karl Düüna the guy who wrote it
+========
+
 [zuora](https://github.com/DeadAlready/node-zuora) is a wrapper that allows easy operations through the Zuora REST API.
 It uses the restify client to make requests and an internal validator to do basic validation beforehand.
 It also parses the errors coming from zuora to provide a readable format if possible.

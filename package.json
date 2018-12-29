@@ -1,25 +1,27 @@
 {
-    "author": "Karl Düüna",
+    "author": "Karl Düüna, Razvan Moraru",
     "name": "zuora-rest",
     "description": "Zuora API wrapper for Node",
-    "version": "0.1.9",
+    "version": "0.0.1",
     "keywords": [
         "zuora",
         "rest"
     ],
     "repository": {
         "type": "git",
-        "url": "git@github.com/joyent/node-zuora-rest.git"
+        "url": "git@github.com/redcom/zuora.git"
     },
     "main": "index.js",
     "dependencies": {
-        "restify":"*",
+        "bunyan": "^1.8.12",
+        "ramda": "^0.26.1",
+        "restify-clients": "^2.6.4",
         "validator": "9.4.1"
     },
     "devDependencies": {},
     "optionalDependencies": {},
     "engines": {
-        "node": ">=0.10.0"
+        "node": ">=11.3.0"
     },
-    "private": false
+    "private": true
 }
