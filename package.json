@@ -1,6 +1,6 @@
 {
     "author": "Karl Düüna, Razvan Moraru",
-    "name": "zuora-rest",
+    "name": "zuora-api-node",
     "description": "Zuora API wrapper for Node",
     "version": "0.0.2",
     "keywords": [
@@ -21,5 +21,5 @@
     "engines": {
         "node": ">=11.3.0"
     },
-    "private": true
+    "private": false
 }
