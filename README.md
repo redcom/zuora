@@ -1,4 +1,4 @@
-Code stolen from bellow url. Credits to Karl Düüna the guy who wrote it
+Inspiration from bellow url. Credits to Karl Düüna the guy who wrote it
 ========
 
 [zuora](https://github.com/DeadAlready/node-zuora) is a wrapper that allows easy operations through the Zuora REST API.
