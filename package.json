@@ -2,7 +2,7 @@
     "author": "Karl Düüna, Razvan Moraru",
     "name": "zuora-api-node",
     "description": "Zuora API wrapper for Node",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "keywords": [
         "zuora",
         "rest"
